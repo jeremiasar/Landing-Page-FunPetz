@@ -21,6 +21,9 @@
     text-decoration: none;
 }
 
+a:hover{
+    text-decoration: underline;
+}
 
 .hero button:hover{
     text-decoration: none;
@@ -540,6 +543,10 @@ footer{
     padding-top: 100px; */
     
     
+}
+
+.one i:hover{
+    cursor: pointer;
 }
 
 .one p{
