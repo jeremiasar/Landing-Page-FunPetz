@@ -46,7 +46,7 @@ button a:hover{
     height: 100vh;
     position: absolute;
     left: 20%;
-    bottom: 0%;
+    bottom: -0.5%;
     z-index: 2;
     opacity: 0.5;
 }
